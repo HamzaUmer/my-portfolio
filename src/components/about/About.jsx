@@ -33,11 +33,11 @@ const About = () => {
                 Artificial Intelligence, Machine Learning and IOT. I made almost 15 Projects in 
                 my University Life and Got First Prize twice.
                 </p>
-                <div className="a-award" data-aos="fade-up">
-                    <img src={Img2} alt="award" className="a-award-img" />
+                <div className="a-award">
+                    <img src={Img2} alt="award" data-aos="fade-up" className="a-award-img" />
                     <div className="a-award-texts">
-                    <h4 className="a-award-title">Silver Medal</h4>
-                    <p className="a-award-desc">
+                    <h4 data-aos="fade-up" className="a-award-title">Silver Medal</h4>
+                    <p data-aos="fade-up" className="a-award-desc">
                     Secure 2nd Position in BSc Electronic Engineering in 2021 
                     from Sir Syed University of Engineering and Technology Karachi, Pakistan
                     </p>

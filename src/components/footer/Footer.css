@@ -16,7 +16,7 @@
   justify-content: space-between;
   width: 20%;
   text-align: center;
-  padding: 10px 505px;
+  padding: 10px 535px;
   cursor: pointer;
 }
 .s-img {
@@ -48,5 +48,17 @@
   }
   .goTop {
     display: none;
+  }
+}
+@media screen and (max-width: 813px) and (min-width: 700px) {
+  .s-wrapper {
+    padding: 0px 238px;
+    margin-top: 5px;
+  }
+  .s-img {
+    margin-left: 12px;
+  }
+  .s {
+    height: 14vh;
   }
 }

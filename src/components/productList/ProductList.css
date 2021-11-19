@@ -44,3 +44,9 @@
     font-size: 25px;
   }
 }
+
+@media screen and (max-width: 812px) and (min-width: 700px) {
+  .pl-title {
+    font-size: 30px;
+  }
+}
