@@ -18,7 +18,7 @@ export const products = [
     {
       id: 3,
       img: Img3,
-      link: "https://mernbunnyapp.herokuapp.com/",
+      link: "https://meetupclone99.herokuapp.com",
     },
     {
       id: 4,
