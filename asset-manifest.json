@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.55b6602f.chunk.css",
+    "main.css": "/my-portfolio/static/css/main.1df6c006.chunk.css",
     "main.js": "/my-portfolio/static/js/main.f40a2300.chunk.js",
     "main.js.map": "/my-portfolio/static/js/main.f40a2300.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.6747bd05.js",
@@ -10,7 +10,7 @@
     "static/js/2.aac6432c.chunk.js.map": "/my-portfolio/static/js/2.aac6432c.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/my-portfolio/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.55b6602f.chunk.css.map": "/my-portfolio/static/css/main.55b6602f.chunk.css.map",
+    "static/css/main.1df6c006.chunk.css.map": "/my-portfolio/static/css/main.1df6c006.chunk.css.map",
     "static/js/2.aac6432c.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.aac6432c.chunk.js.LICENSE.txt",
     "static/media/AvengersWebsite.ce6f26ca.png": "/my-portfolio/static/media/AvengersWebsite.ce6f26ca.png",
     "static/media/Award.97e275e6.jpeg": "/my-portfolio/static/media/Award.97e275e6.jpeg",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.6747bd05.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.aac6432c.chunk.js",
-    "static/css/main.55b6602f.chunk.css",
+    "static/css/main.1df6c006.chunk.css",
     "static/js/main.f40a2300.chunk.js"
   ]
 }
