@@ -105,4 +105,7 @@
   .i-desc {
     display: none;
   }
+  .i-title-item {
+    font-size: 25px;
+  }
 }

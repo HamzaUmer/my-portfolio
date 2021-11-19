@@ -91,6 +91,9 @@
   }
 
   .a-right {
-    padding: 20px;
+    padding: -10px;
+  }
+  .a-desc {
+    font-size: 13px;
   }
 }
