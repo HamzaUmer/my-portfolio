@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.e8ca4f96.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.46f24bb9.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.46f24bb9.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.4df0d5d7.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.74a577b1.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.74a577b1.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.6747bd05.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.6747bd05.js.map",
     "static/css/2.ec02d681.chunk.css": "/my-portfolio/static/css/2.ec02d681.chunk.css",
@@ -10,15 +10,15 @@
     "static/js/2.aac6432c.chunk.js.map": "/my-portfolio/static/js/2.aac6432c.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/my-portfolio/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.e8ca4f96.chunk.css.map": "/my-portfolio/static/css/main.e8ca4f96.chunk.css.map",
+    "static/css/main.4df0d5d7.chunk.css.map": "/my-portfolio/static/css/main.4df0d5d7.chunk.css.map",
     "static/js/2.aac6432c.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.aac6432c.chunk.js.LICENSE.txt",
     "static/media/AvengersWebsite.ce6f26ca.png": "/my-portfolio/static/media/AvengersWebsite.ce6f26ca.png",
     "static/media/Award.97e275e6.jpeg": "/my-portfolio/static/media/Award.97e275e6.jpeg",
     "static/media/BunnyWebsite.5c452658.png": "/my-portfolio/static/media/BunnyWebsite.5c452658.png",
+    "static/media/MERNapp.ac1c3e3e.png": "/my-portfolio/static/media/MERNapp.ac1c3e3e.png",
     "static/media/ReenWebsite.b1645e5f.png": "/my-portfolio/static/media/ReenWebsite.b1645e5f.png",
     "static/media/UniversityWebsite.6f03095c.png": "/my-portfolio/static/media/UniversityWebsite.6f03095c.png",
     "static/media/address.a01cb8cc.png": "/my-portfolio/static/media/address.a01cb8cc.png",
-    "static/media/e-commerceWebsite.1336014a.png": "/my-portfolio/static/media/e-commerceWebsite.1336014a.png",
     "static/media/email.a49e0158.png": "/my-portfolio/static/media/email.a49e0158.png",
     "static/media/fiverr.5136c04e.png": "/my-portfolio/static/media/fiverr.5136c04e.png",
     "static/media/github.c8007a9f.png": "/my-portfolio/static/media/github.c8007a9f.png",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.6747bd05.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.aac6432c.chunk.js",
-    "static/css/main.e8ca4f96.chunk.css",
-    "static/js/main.46f24bb9.chunk.js"
+    "static/css/main.4df0d5d7.chunk.css",
+    "static/js/main.74a577b1.chunk.js"
   ]
 }
