@@ -28,7 +28,7 @@ export const products = [
     {
       id: 5,
       img: Img5,
-      link: "https://hamzaumer.github.io/PSD-to-HTML-Website-Practice/index.html",
+      link: "https://e-commerceappmern.herokuapp.com/",
     },
     {
       id: 6,
