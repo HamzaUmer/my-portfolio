@@ -7,14 +7,14 @@ const Intro = () => {
             <div className="i-left">
                 <div className="i-left-wrapper">
                     <h2 className="i-intro">Hello, My name is</h2>
-                    <h1 className="i-name">Mirza Hamza Umer</h1>
+                    <h1 className="i-name">Mirza Hamza Umar</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
                             <div className="i-title-item">Web Developer</div>
-                            <div className="i-title-item">UI/UX &amp; Grapic Designer</div>
+                            <div className="i-title-item">Grapic Designer</div>
                             <div className="i-title-item">MERN Stack Developer</div>
                             <div className="i-title-item">Electronic Engineer</div>
-                            <div className="i-title-item">Virtual Assistant</div>
+                            <div className="i-title-item">DevOps Engineer</div>
                         </div>
                     </div>
                     <p className="i-desc">
