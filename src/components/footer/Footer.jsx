@@ -16,7 +16,7 @@ const Footer = () => {
                <li className="s-icon"><a href="https://www.instagram.com/mirhamzaumer786/"><img src={Logo2} alt="" className="s-img" /></a></li>
                <li className="s-icon"><a href="https://www.linkedin.com/in/engr-mirza-hamza-umer-3b596617a/"><img src={Logo3} alt="" className="s-img" /></a></li>
                <li className="s-icon"><a href="https://github.com/HamzaUmer"><img src={Logo4} alt="" className="s-img" /></a></li>
-               <li className="s-icon"><a href="https://www.fiverr.com/innocent_eyes?public_mode=true"><img src={Logo5} alt="" className="s-img" /></a></li>
+               <li className="s-icon"><a href="https://www.fiverr.com/mirzahamzaumer?up_rollout=true"><img src={Logo5} alt="" className="s-img" /></a></li>
                <li className="s-icon"><a href="https://www.upwork.com/freelancers/~019bf7a0ae48524b10"><img src={Logo6} alt="" className="s-img" /></a></li>
             </ul>
             <BackTop>
